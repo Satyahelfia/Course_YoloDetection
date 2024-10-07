@@ -1,0 +1,10 @@
+data/images/Validation/alpaca (1).jpg
+data/images/Validation/alpaca (10).jpg
+data/images/Validation/alpaca (2).jpg
+data/images/Validation/alpaca (3).jpg
+data/images/Validation/alpaca (4).jpg
+data/images/Validation/alpaca (5).jpg
+data/images/Validation/alpaca (6).jpg
+data/images/Validation/alpaca (7).jpg
+data/images/Validation/alpaca (8).jpg
+data/images/Validation/alpaca (9).jpg

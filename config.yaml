@@ -1,0 +1,7 @@
+
+path: C:\Kuliah\Course Yolo\YoloDetection\dataset
+train: images/Train
+val: images/Validation
+
+names:
+  0: alpaca

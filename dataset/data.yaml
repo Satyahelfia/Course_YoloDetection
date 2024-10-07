@@ -1,0 +1,5 @@
+Train: Train.txt
+Validation: Validation.txt
+names:
+  0: alpaca
+path: .
